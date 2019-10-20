@@ -34,3 +34,7 @@ Currently, only 2 programming language supported in this demonstration:
 
 + Java
 + NodeJS
+
+See:
++ [microservice-java](https://github.com/colinbut/microservice-java.git)
++ [microservice-nodejs](https://github.com/colinbut/microservice-nodejs.git)
