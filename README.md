@@ -1,7 +1,12 @@
 # Microservice AWS Demo
 
 This projects demonstrates the ability of taking a microservice (regardless of its development language platform*) and deploying it onto 
-various different AWS compute services; namely: EC2, Elastic Beanstalk, ECS, EKS
+various different AWS compute services; namely: 
+
+- EC2
+- Elastic Beanstalk
+- ECS
+- EKS
 
 ## Deployment Platforms
 
