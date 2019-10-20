@@ -6,7 +6,7 @@ various different AWS compute services; namely: EC2, Elastic Beanstalk, ECS, EKS
 ## Deployment Platforms
 
 | Deployment Mechanism                    | AWS Service           |
-| --------------------------------------- | --------------------- |
+| :-------------------------------------- | :-------------------- |
 | Bare Metal/Virtual Machines             | EC2                   |  
 | PAAS (Platform as a Service)            | Elastic Beanstalk     |
 | Self-Hosted Containers on Servers       | EC2                   |
