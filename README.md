@@ -10,6 +10,10 @@
   * [ECS (on EC2 instances)](#ecs)
   * [ECS Fargate](#ecs-fargate)
   * [EKS](#eks)
+* [Supplementaries](#supplementaries)
+  * [Microservice AMI](#microservice-ami)
+* [CI/CD](#ci-cd)
+  * [Jenkins Build Container](#microservice-jenkins-build-container)
 * [Microservice Development Language Platform](#microservice-development-language-platform))
 
 
@@ -56,12 +60,9 @@ various different AWS compute services; namely:
 
 [TBD]
 
+### <a name="supplementaries"></a>Supplementaries
 
-
-#### <a name="self-hosted-containers"></a>Self-Hosted Containers on Servers (EC2 Instances)
-
-[TBD]
-
+#### <a name="microservice-ami"></a>Microservice AMI
 
 ### <a name="microservice-development-language-platform"></a>Microservice Development Language Platform
 
@@ -75,3 +76,20 @@ Here are the skeleton project of a microservice in the above platforms which can
 See:
 + [microservice-java](https://github.com/colinbut/microservice-java.git)
 + [microservice-nodejs](https://github.com/colinbut/microservice-nodejs.git)
+
+
+### <a name="ci-cd"></a>CI/CD 
+
+__Continuous Integration/Continuous Delivery.__
+
+To achieve CI/CD objectives for this example microservice-aws-demo project we use the Jenkins CI build server & its CD pipelines features to build the various microservices-aws-demo components.
+
+#### <a name="jenkins-setup"></a>Jenkins Setup
+
+Follow this GitHub project of mine to see how I setup & configure Jenkins for this particular project.
+
+[TBD]
+
+#### <a name="microservice-jenkins-build-container"></a>Jenkins Build Container
+
+
