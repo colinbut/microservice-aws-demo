@@ -14,7 +14,7 @@
   * [Microservice AMI](#microservice-ami)
 * [CI/CD](#ci-cd)
   * [Jenkins Build Container](#microservice-jenkins-build-container)
-* [Development Language Platform](#development-language-platform))
+* [Development Language Platform](#development-language-platform)
 
 
 ### <a name="summary"></a>Summary
