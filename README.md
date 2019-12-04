@@ -89,7 +89,7 @@ To achieve CI/CD objectives for this example __microservice-aws-demo__ project w
 
 Follow this GitHub project of mine to see how I setup & configure Jenkins for this particular project.
 
-[TBD]
++ [microservice-aws-demo-project-jenkins](https://github.com/colinbut/microservice-aws-demo-project-jenkins.git)
 
 #### <a name="microservice-jenkins-build-container"></a>Jenkins Build Container
 
