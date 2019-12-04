@@ -25,8 +25,8 @@ various different AWS compute services; namely:
 
 
 ### PAAS (Platform as a Service)
-- [microservice-aws-elastic-beanstalk-setup](https://github.com/colinbut/microservice-aws-elastic-beanstalk-setup.git)  
-- [microservice-aws-elastic-beanstalk-deployment](https://github.com/colinbut/microservice-aws-elastic-beanstalk-deployment.git)
+- [microservice-aws-elastic-beanstalk-setup](https://github.com/colinbut/microservice-aws-elasticbeanstalk-setup.git)  
+- [microservice-aws-elastic-beanstalk-deployment](https://github.com/colinbut/microservice-aws-elasticbeanstalk-deployment.git)
 
 ### Self-Hosted Containers on Servers (EC2 Instances)
 
