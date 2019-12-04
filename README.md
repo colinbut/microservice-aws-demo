@@ -14,7 +14,7 @@
   * [Microservice AMI](#microservice-ami)
 * [CI/CD](#ci-cd)
   * [Jenkins Build Container](#microservice-jenkins-build-container)
-* [Microservice Development Language Platform](#microservice-development-language-platform))
+* [Development Language Platform](#development-language-platform))
 
 
 ### <a name="summary"></a>Summary
@@ -65,7 +65,7 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 
 + [microservice-ami](https://github.com/colinbut/microservice-ami)
 
-### <a name="microservice-development-language-platform"></a>Microservice Development Language Platform
+### <a name="development-language-platform"></a>Development Language Platform
 
 Currently, only 2 programming language supported in this demonstration:
 
@@ -83,7 +83,7 @@ See:
 
 __Continuous Integration/Continuous Delivery.__
 
-To achieve CI/CD objectives for this example microservice-aws-demo project we use the [Jenkins](https://jenkins.io/) CI build server & its CD pipelines features to build the various microservices-aws-demo components.
+To achieve CI/CD objectives for this example __microservice-aws-demo__ project we use the [Jenkins](https://jenkins.io/) CI build server & its CD pipelines features to build the various microservices-aws-demo components.
 
 #### <a name="jenkins-setup"></a>Jenkins Setup
 
