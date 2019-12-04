@@ -13,6 +13,7 @@
 * [Supplementaries](#supplementaries)
   * [Microservice AMI](#microservice-ami)
 * [CI/CD](#ci-cd)
+  * [Jenkins Setup](#setup-jenkins)
   * [Jenkins Build Container](#microservice-jenkins-build-container)
 * [Development Language Platform](#development-language-platform)
 
@@ -85,7 +86,7 @@ __Continuous Integration/Continuous Delivery.__
 
 To achieve CI/CD objectives for this example __microservice-aws-demo__ project we use the [Jenkins](https://jenkins.io/) CI build server & its CD pipelines features to build the various microservices-aws-demo components.
 
-#### <a name="jenkins-setup"></a>Jenkins Setup
+#### <a name="setup-jenkins"></a>Jenkins Setup
 
 Follow this GitHub project of mine to see how I setup & configure Jenkins for this particular project.
 
