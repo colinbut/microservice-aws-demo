@@ -18,8 +18,7 @@
 
 
 ### <a name="summary"></a>Summary
-This projects demonstrates the ability of taking a microservice (regardless of its development language platform*) and deploying it onto 
-various different AWS compute services; namely: 
+This projects demonstrates the ability of __taking a microservice (regardless of its development language platform*) and deploying it onto various different AWS compute services__; namely: 
 
 - EC2
 - Elastic Beanstalk
@@ -82,7 +81,7 @@ See:
 
 __Continuous Integration/Continuous Delivery.__
 
-To achieve CI/CD objectives for this example microservice-aws-demo project we use the Jenkins CI build server & its CD pipelines features to build the various microservices-aws-demo components.
+To achieve CI/CD objectives for this example microservice-aws-demo project we use the [Jenkins](https://jenkins.io/) CI build server & its CD pipelines features to build the various microservices-aws-demo components.
 
 #### <a name="jenkins-setup"></a>Jenkins Setup
 
@@ -92,4 +91,5 @@ Follow this GitHub project of mine to see how I setup & configure Jenkins for th
 
 #### <a name="microservice-jenkins-build-container"></a>Jenkins Build Container
 
++ [microservice-jenkins-build-container](https://github.com/colinbut/microservice-jenkins-build-container.git)
 
