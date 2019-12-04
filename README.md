@@ -63,6 +63,8 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 
 #### <a name="microservice-ami"></a>Microservice AMI
 
++ [microservice-ami](https://github.com/colinbut/microservice-ami)
+
 ### <a name="microservice-development-language-platform"></a>Microservice Development Language Platform
 
 Currently, only 2 programming language supported in this demonstration:
