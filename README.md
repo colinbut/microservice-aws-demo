@@ -40,6 +40,8 @@ Currently, only 2 programming language supported in this demonstration:
 + Java
 + NodeJS
 
+Here are the skeleton project of a microservice in the above platforms which can be used as a template:
+
 See:
 + [microservice-java](https://github.com/colinbut/microservice-java.git)
 + [microservice-nodejs](https://github.com/colinbut/microservice-nodejs.git)
