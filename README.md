@@ -39,8 +39,10 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 
 #### <a name="bare-metal-vms"></a>Bare Metal/Virtual Machines
 - [microservice-aws-ec2-setup](https://github.com/colinbut/microservice-aws-ec2-setup.git)  
+- [microservice-aws-ec2-deployment](https://github.com/colinbut/microservice-aws-ec2-deployment.git)
 
 ![microservice-ec2-non-containerized](https://images-for-github-colinbut.s3.eu-west-2.amazonaws.com/microservice-aws-demo/microservice-aws-ec2-non-containerized.png)
+
 
 #### <a name="platform-as-a-service"></a>PAAS (Platform as a Service)
 - [microservice-aws-elastic-beanstalk-setup](https://github.com/colinbut/microservice-aws-elasticbeanstalk-setup.git)  
@@ -50,7 +52,7 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 
 #### <a name="self-hosted-containers"></a>Self-Hosted Containers on Servers (EC2 Instances)
 
-[TBD]
+- [microservice-aws-ec2-docker-setup](https://github.com/colinbut/microservice-aws-ec2-docker-setup.git)
 
 #### <a name="ecs"></a>ECS (on EC2 instances)
 
