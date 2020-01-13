@@ -53,6 +53,7 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 #### <a name="self-hosted-containers"></a>Self-Hosted Containers on Servers (EC2 Instances)
 
 - [microservice-aws-ec2-docker-setup](https://github.com/colinbut/microservice-aws-ec2-docker-setup.git)
+- [microservice-aws-ec2-docker-deployment](https://github.com/colinbut/microservice-aws-ec2-docker-deployment.git)
 
 #### <a name="ecs"></a>ECS (on EC2 instances)
 
