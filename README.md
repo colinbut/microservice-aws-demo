@@ -1,5 +1,21 @@
 # Microservice AWS Demo
 
+This project showcases a platform for the "Build, Test, Deploy, Run" microservices on AWS cloud.
+
+This is an on-going personal project of mine and is still in WIP.
+
+__Keynote:__
+
+- AWS infrastructure/resources are provisioned using Terraform/Cloudformation
+- Packer to build immutable servers
+- Jenkins an Automation Server to automate the full 'DevOps' lifecyle by using CI/CD pipelines
+- Containerized microservices (Docker) are published to AWS ECR once built
+- Non-Containerized microservices (e.g. raw java jar executables) are published to a repository manager (Artifactory/Nexus)
+- Ansible automates the deployment of microservices to AWS cloud
+- PAAS solution example in AWS Elastic Beanstalk
+- Demonstrates creating AWS infrastructure on EC2, ECS, EKS etc... and running microservices on them
+
+
 ![microservice-aws-demo](https://images-for-github-colinbut.s3.eu-west-2.amazonaws.com/microservice-aws-demo/microservice-aws-demo.png)
 
 ## Table of Contents
