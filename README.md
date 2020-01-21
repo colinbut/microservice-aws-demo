@@ -55,6 +55,14 @@ This projects demonstrates the ability of __taking a microservice (regardless of
 - [microservice-aws-ec2-docker-setup](https://github.com/colinbut/microservice-aws-ec2-docker-setup.git)
 - [microservice-aws-ec2-docker-deployment](https://github.com/colinbut/microservice-aws-ec2-docker-deployment.git)
 
+![microservice-aws-ec2-docker](https://images-for-github-colinbut.s3.eu-west-2.amazonaws.com/microservice-aws-demo/microservice-aws-ec2-docker.png)
+
+This side-project above demonstrates that the microservies (in Java/NodeJS) gets built into a Docker container from a Docker image. The Docker image is then published onto a Docker Registry (here we use AWS's ECR - Elastic Container Registry). 
+
+EC2 instances are provisioned by either Terraform or AWS Cloudformation just like the Bare Metal/Virtual Machines side project above. Additionally, the EC2 instances are configured to install Docker after provisioning.
+
+For deployment of the microservices, use Ansible to pull the Docker image from ECR and run them on the EC2 instances.
+
 #### <a name="ecs"></a>ECS (on EC2 instances)
 
 [TBD]
