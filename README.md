@@ -91,7 +91,9 @@ For deployment of the microservices, use Ansible to pull the Docker image from E
 
 #### <a name="eks"></a>EKS
 
-- https://github.com/colinbut/microservice-aws-eks-deployment.git
+- [microservice-aws-eks-setup](https://github.com/colinbut/microservice-aws-eks-setup.git)
+- [microservice-aws-eks-deployment](https://github.com/colinbut/microservice-aws-eks-deployment.git)
+
 
 ### <a name="supplementaries"></a>Supplementaries
 
