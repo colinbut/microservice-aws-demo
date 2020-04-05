@@ -94,6 +94,8 @@ For deployment of the microservices, use Ansible to pull the Docker image from E
 - [microservice-aws-eks-setup](https://github.com/colinbut/microservice-aws-eks-setup.git)
 - [microservice-aws-eks-deployment](https://github.com/colinbut/microservice-aws-eks-deployment.git)
 
+![terraform-eks](https://images-for-github-colinbut.s3.eu-west-2.amazonaws.com/microservice-aws-demo/terraform-eks.png)
+
 
 ### <a name="supplementaries"></a>Supplementaries
 
